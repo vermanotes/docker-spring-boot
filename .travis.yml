@@ -7,4 +7,5 @@ language: java
 
 sudo: required
 
-
+cript:
+  - mvn clean package

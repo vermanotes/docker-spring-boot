@@ -1,11 +1,13 @@
-app: docker-spring-boot
-
-jdk: 
-  - oraclejdk8
-
 language: java
+
+group: reallybigindex
 
 sudo: required
 
-cript:
+jdk:
+  - oraclejdk8
+  
+script:
   - mvn clean package
+
+app: docker-spring-boot

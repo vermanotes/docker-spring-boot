@@ -10,6 +10,6 @@ public class HelloController {
 
 	@GetMapping
 	public String getUser() {
-		return "Hello ReallyBigIndex!";
+		return "Hello ReallyBigIndex!!";
 	}
 }

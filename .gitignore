@@ -1,6 +1,6 @@
 target/
+!.mvn/wrapper/maven-wrapper.jar
 .mvn/
-mvnw*
 .settings
 .springBeans
 
@@ -26,3 +26,8 @@ dist/
 nbdist/
 .nb-gradle/
 
+#local files
+settings-local.xml
+*.crt
+filestore.props
+manifest.yml

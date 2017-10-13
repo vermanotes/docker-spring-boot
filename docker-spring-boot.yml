@@ -1,0 +1,4 @@
+applications:
+  - name: docker-spring-demo
+    mem: 512M
+    path: target/docker-spring-boot.jar

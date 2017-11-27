@@ -1,0 +1,10 @@
+applications:
+  - path: target/process-engine-v2.jar
+    memory: 1024M
+    instances: 1
+    domain: mybluemix.net
+    name: process-engine-v2
+    host: process-engine-v2
+    disk_quota: 1024M
+    buildpack: https://github.com/cloudfoundry/java-buildpack.git
+    

@@ -5,7 +5,7 @@
 
 	<groupId>com.reallybigindex.docker.spring.boot</groupId>
 	<artifactId>docker-spring-boot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>docker-spring-boot</name>
@@ -68,8 +68,5 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker-spring-boot</finalName>
 	</build>
-
-
 </project>

@@ -20,13 +20,13 @@
 			<properties>
 				<project>https://vermanotes.com</project>
 				<project>https://timesofcloud.com</project>
-				<project>https://reallybigindex.com</project>
 			</properties>
 			<roles>
 				<role>Blockchain Visionary</role>
 				<role>DevOps Engineer</role>
 				<role>Full Stack Developer</role>
 				<role>Cloud Platform Specialist</role>
+				<role>Technical Blogger</role>
 			</roles>
 			<timezone>Asia/Kolkata</timezone>
 		</developer>
@@ -69,6 +69,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
+	
 </project>

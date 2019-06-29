@@ -6,7 +6,7 @@ This is docker-spring-boot app demostrate that how we can create a docker Image 
 ###  Websites:
 Personal website: https://vermanotes.com/<br />
 Latest technology blogging: https://timesofcloud.com/<br />
-Programming Language blogging: https://reallybigindex.com/<br /><br />
+
 ###  Social media:
 Twitter: https://twitter.com/vermanotes/<br />
 Instagram: https://www.instagram.com/vermanotes/<br />
